@@ -1,4 +1,36 @@
-### Hi there 👋
+### Hi there 👋 I'm Alexandre aka Ajustor
+
+### Connect with me:
+
+[<img align="left" alt="Alexandre" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/alexandre-gambier-654161124/)
+
+<br />
+
+## Github stats
+
+![Ajustor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajustor&count_private=true&show_icons=true)
+
+---
+
+## Top Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajustor)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!-- </details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details> -->
 
 <!--
 **Ajustor/Ajustor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
