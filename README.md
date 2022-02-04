@@ -21,6 +21,7 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Ajustor/rpg-server/pull/1) in [Ajustor/rpg-server](https://github.com/Ajustor/rpg-server)
 <!--END_SECTION:activity-->
 
 <!-- </details>
