@@ -8,13 +8,13 @@
 
 ## Github stats
 
-![Ajustor's GitHub stats](github-stats-extended.vercel.app/api?username=ajustor&count_private=true&show_icons=true)
+![Ajustor's GitHub stats](https://github-stats-extended.vercel.app/api?username=ajustor&count_private=true&show_icons=true)
 
 ---
 
 ## Top Language
 
-[![Top Langs](github-stats-extended.vercel.app/api/top-langs/?username=ajustor&hide=javascript)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ajustor&hide=javascript)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
